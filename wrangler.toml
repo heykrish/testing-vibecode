@@ -1,0 +1,8 @@
+name = "greenpackgit01"
+compatibility_date = "2026-03-27"
+
+[assets]
+directory = "./frontend/dist"
+
+[assets.single_page_app]
+fallback = "index.html"
